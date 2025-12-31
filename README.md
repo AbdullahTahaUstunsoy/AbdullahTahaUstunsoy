@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abdullah Taha Üstünsoy
 
-- 🌱 I'm currently learning **Robotics with ROS 2, Computer Vision, and Data Mining using Python**
+- 🌱 I'm currently learning **computer vision, and data mining with Python**
 
 - 📫 How to reach me **abdullahustunsoy1@gmail.com**
 
