@@ -1,5 +1,6 @@
 # Hi 👋, I'm Abdullah Taha Üstünsoy
 
+- 🔭 I’m currently working on **low-level programming**
 - 🌱 I'm currently learning **computer vision, and data mining with Python**
 
 - 📫 How to reach me **abdullahustunsoy1@gmail.com**
